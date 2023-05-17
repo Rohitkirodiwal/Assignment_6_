@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "Rohit",
+        "dob": "12-feb-98",
+        "height": "5.9",
+        "City": "Jaipur",
+        "State": "Rajasthan"
+    },
+    {
+        "Name": "Bharat",
+        "dob": "13-jun-92",
+        "height": "5",
+        "City": "Bhopal",
+        "State": "MP"
+    },
+    {
+        "Name": "Chetan",
+        "dob": "02-jan-96",
+        "height": "5.8",
+        "City": "Chandigarh",
+        "State": "Harayana"
+    },
+    {
+        "Name": "Dhoni",
+        "dob": "23-oct-94",
+        "height": "4.9",
+        "City": "Ranchi",
+        "State": "UP"
+    },
+    {
+        "Name": "English",
+        "dob": "18-may-99",
+        "height": "6",
+        "City": "Pune",
+        "State": "Maharastra"
+    }
+]
